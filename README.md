@@ -1,1 +1,1 @@
-# C-Stuff
+Projects for C++ from a class 
